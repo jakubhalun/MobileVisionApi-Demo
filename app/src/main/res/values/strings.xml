@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileVisionApiDemo</string>
+    <string name="processed">Processed image</string>
+    <string name="load">Load</string>
+</resources>
