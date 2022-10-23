@@ -7,7 +7,7 @@ gen/
 out/
 .gradle/
 build/
-gradle/
+gradle-wrapper.jar
 gradlew
 gradlew.bat
 local.properties
@@ -23,4 +23,3 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
-
